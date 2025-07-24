@@ -1,0 +1,7 @@
+# Ignorar dados locais
+data/
+__pycache__/
+*.csv
+*.zip
+*.json
+.DS_Store
