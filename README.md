@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo aplicar algoritmos de Machine Learning para prever os preços de casas com base em características como área construída, número de quartos, localização e outros atributos.
 
-🔗 **Link do projeto (Google Colab)**: [https://colab.research.google.com/drive/1SQE9G6B3kQVcbh7o-yeQUL2AefanAV9X?usp=sharing]
+🔗 **Link do projeto (Google Colab)**: [Clique aqui ](https://colab.research.google.com/drive/1SQE9G6B3kQVcbh7o-yeQUL2AefanAV9X?usp=sharing)
 
 ---
 
@@ -33,11 +33,3 @@ previsao-preco-casas/
 ├── imagens/ # Gráficos e visualizações geradas
 └── README.md # Este arquivo
 ````
-
----
-
-## Como Executar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/ZaraTakion/previsao-preco-casas.git
