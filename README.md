@@ -1,12 +1,12 @@
-# 🏠 Previsão de Preços de Casas
+# Previsão de Preços de Casas
 
 Este projeto tem como objetivo aplicar algoritmos de Machine Learning para prever os preços de casas com base em características como área construída, número de quartos, localização e outros atributos.
 
-🔗 **Link do projeto (Google Colab)**: [Inserir aqui, se tiver]
+🔗 **Link do projeto (Google Colab)**: [https://colab.research.google.com/drive/1SQE9G6B3kQVcbh7o-yeQUL2AefanAV9X?usp=sharing]
 
 ---
 
-## 📊 Sobre o Projeto
+## Sobre o Projeto
 
 - Baseado em um conjunto de dados com diversas variáveis sobre imóveis.
 - Aplicação de análise exploratória de dados (EDA).
@@ -15,17 +15,17 @@ Este projeto tem como objetivo aplicar algoritmos de Machine Learning para preve
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python 3
 - Pandas
 - Matplotlib e Seaborn
 - Scikit-learn
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 ````
 previsao-preco-casas/
 ├── dados/ # Conjunto de dados (CSV ou XLSX)
@@ -36,7 +36,7 @@ previsao-preco-casas/
 
 ---
 
-## ⚙️ Como Executar
+## Como Executar
 
 1. Clone o repositório:
 ```bash
