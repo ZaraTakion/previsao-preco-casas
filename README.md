@@ -28,8 +28,10 @@ Este projeto tem como objetivo aplicar algoritmos de Machine Learning para preve
 ## Estrutura do Projeto
 ````
 previsao-preco-casas/
-├── dados/ # Conjunto de dados (CSV ou XLSX)
-├── notebooks/ # Notebooks com análises e modelos
-├── imagens/ # Gráficos e visualizações geradas
-└── README.md # Este arquivo
+├── dados/ 
+├── notebooks/ 
+├── outputs/ 
+├── .gitignore
+├── requirements.txt
+└── README.md
 ````
